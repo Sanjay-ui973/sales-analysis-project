@@ -1,2 +1,31 @@
-# sales-analysis-project
-Sales Analysis using Excel and Power BI
+# Retail Sales Analysis
+
+## Project Overview
+
+This project analyzes retail sales data to identify useful business insights and understand sales performance.
+
+## Tools Used
+
+- Microsoft Excel
+- Power BI
+
+## Project Work
+
+- Cleaned and analyzed retail sales data using Excel
+- Created a Power BI dashboard
+- Analyzed sales performance using different business metrics
+- Created charts and visualizations to present insights
+
+## Files Included
+
+- Retail Sales Dataset.xlsx
+- Retail Sales Dashboard.pbix
+- Power BI Dashboard Screenshot
+
+## Key Insights
+
+The dashboard helps understand sales performance and provides useful insights for business decision-making.
+
+## Project Objective
+
+The main objective of this project is to analyze retail sales data and present meaningful insights through an interactive Power BI dashboard.
