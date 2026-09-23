@@ -29,7 +29,10 @@ This project analyzes retail sales data to identify useful business insights and
 
 ## Key Insights
 
-The dashboard helps understand sales performance and provides useful insights for business decision-making.
+- The South region recorded the highest sales.
+- The East region recorded the lowest sales.
+- The Electronics category generated the highest profit.
+
 
 ## Project Objective
 
