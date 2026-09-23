@@ -4,6 +4,11 @@
 
 This project analyzes retail sales data to identify useful business insights and understand sales performance.
 
+## Power BI Dashboard
+
+![Power BI Dashboard](PowerBIDashboardScreenshot.png)
+
+
 ## Tools Used
 
 - Microsoft Excel
