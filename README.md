@@ -6,7 +6,7 @@ This project analyzes retail sales data to identify useful business insights and
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](PowerBIDashboardScreenshot.png)
+![Power BI Dashboard](Power%20BI%20Dashboard%20Screenshot.png)
 
 
 ## Tools Used
